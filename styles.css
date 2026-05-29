@@ -3,6 +3,6 @@
 .holder{
 	display:flex;
 	flex-direction:row;
-	justify-items: space-evenly;
+	justify-content: space-evenly;
 	flex-wrap:wrap;
 }
